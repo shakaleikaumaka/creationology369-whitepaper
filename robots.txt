@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://creationology369.com/sitemap.xml
